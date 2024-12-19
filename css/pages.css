@@ -185,6 +185,13 @@ section#home1 {
     -ms-transform: scale(1.1);
     transform: scale(1.5);
 }
+#home1 #social_icons ul li:hover i.fa-github {
+    font-size: 30px;
+    color: #000;
+    transition: all 1s ease-in;
+    -ms-transform: scale(1.1);
+    transform: scale(1.5);
+}
 /*============================================== Home ========================================*/
 section#home {
     min-height: 99%;
