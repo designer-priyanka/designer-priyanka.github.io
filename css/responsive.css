@@ -82,7 +82,7 @@
 	}
 	#home1 .gray_card .text {
 	    position: absolute;
-	    top: 31%;
+	    top: 2%;
 	    left: 0;
 	    right: 0;
 	    max-width: 95%;
@@ -170,7 +170,7 @@
 	    border: 2px solid #edf6ff;
 	}
 	section#portfolio #pills-tab li {
-	    width: auto!important;
+	    width: 50%!important
 	}
 	section#portfolio #pills-tab li .nav-link {
 	    padding: 2%;
